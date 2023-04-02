@@ -17,6 +17,15 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 <br><br>
+</div>
+
+## Project
+- OOPT_DVM : [객체지향개발방법론] 분산 자판기 시스템의 자판기 controller SW 개발 (Univ Team Project)
+- Weather-react : 날씨 웹 어플리케이션 (Personal Project)
+- What-Should-I-wear-today : [모바일프로그래밍] 날씨 기반 옷 추천 안드로이드 어플리케이션 (Univ Team Project)
+- Movie-react : 영화 정보 제공 & 검색 사이트 (Personal Project)
+
+<div align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunarmoon7&&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
@@ -24,6 +33,8 @@
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pisik05)](https://solved.ac/pisik05)
+</div>
+
 
 
 <!--
@@ -40,4 +51,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
+
