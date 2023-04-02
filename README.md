@@ -20,15 +20,18 @@
 </div>
 
 ## Project
-#### 해경(오션랩) - 불법 외국어선 단속강화 - 생체신호 센싱 : [[학부연구생]]()
-#### OOPT_DVM : [[객체지향개발방법론] 분산 자판기 시스템의 자판기 controller SW 개발 (Univ Team Project) in JAVA](https://github.com/lunarmoon7/OOPT_DVM)
-#### Weather-react-project : [날씨 웹 어플리케이션 (Personal Project) in HTML, CSS, JavaScript, React](https://github.com/lunarmoon7/weather-react-project)
-#### What-Should-I-wear-today : [[모바일프로그래밍] 날씨 기반 옷 추천 안드로이드 어플리케이션 (Univ Team Project) in Kotiln](https://github.com/lunarmoon7/What-Should-I-wear-today)
-#### TMDB-Movie-react : [영화 정보 제공 & 검색 사이트 (Personal Project) in HTML, CSS, JavaScript, React, Chakra-ui](https://github.com/lunarmoon7/TMDB-movie-react)
-#### Kama : [[K-lab 프로젝트]장애인이 일상생활에 불편을 겪을 때 도움을 신청하고, 도움을 받을 수 있게 하는 어플리케이션 in Swift](https://github.com/lunarmoon7/Kama)
+#### 해경(오션랩) - 불법 외국어선 단속강화 - 생체신호 센싱 : 학부 연구생 참여 프로젝트 [Here]()
+#### OOPT_DVM : [객체지향개발방법론] 분산 자판기 시스템의 자판기 controller SW 개발 (Univ Team Project) in JAVA [Here](https://github.com/lunarmoon7/OOPT_DVM)
+#### Weather-react-project : 날씨 웹 어플리케이션 (Personal Project) in HTML, CSS, JavaScript, React [Here](https://github.com/lunarmoon7/weather-react-project)
+#### What-Should-I-wear-today : [모바일프로그래밍] 날씨 기반 옷 추천 안드로이드 어플리케이션 (Univ Team Project) in Kotiln [Here](https://github.com/lunarmoon7/What-Should-I-wear-today)
+#### TMDB-Movie-react : 영화 정보 제공 & 검색 사이트 (Personal Project) in HTML, CSS, JavaScript, React, Chakra-ui [Here](https://github.com/lunarmoon7/TMDB-movie-react)
+#### Kama : [K-lab 프로젝트]장애인이 일상생활에 불편을 겪을 때 도움을 신청하고, 도움을 받을 수 있게 하는 어플리케이션 in Swift [Here](https://github.com/lunarmoon7/Kama)
 ---
 ## Study
-#### 코딩 테스트 대비 스터디 in Python : [파이썬 코테 스터디](https://github.com/lunarmoon7/2023-python-coding-test)
+#### 코딩 테스트 대비 스터디 in Python : 파이썬 코테 스터디 [Here](https://github.com/lunarmoon7/2023-python-coding-test)
+#### CS-Study : CS 전공지식 공부 [Here](https://github.com/lunarmoon7/CS-Study)
+#### react-study-with-udemy : 리액트 공부 with udemy 강의 [Here](https://github.com/lunarmoon7/react-study-with-udemy)
+#### zoom-cloneCoding : 줌 클론코딩으로 webSocket, socketIO 배우기 with NomadCoders [Here](https://github.com/lunarmoon7/zoom_cloneCoding)
 <br><br>
 ---
 <div align="center">
