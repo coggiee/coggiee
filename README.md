@@ -20,10 +20,10 @@
 </div>
 
 ## Project
-- OOPT_DVM : [객체지향개발방법론] 분산 자판기 시스템의 자판기 controller SW 개발 (Univ Team Project)
-- Weather-react : 날씨 웹 어플리케이션 (Personal Project)
-- What-Should-I-wear-today : [모바일프로그래밍] 날씨 기반 옷 추천 안드로이드 어플리케이션 (Univ Team Project)
-- Movie-react : 영화 정보 제공 & 검색 사이트 (Personal Project)
+#### OOPT_DVM : [객체지향개발방법론] 분산 자판기 시스템의 자판기 controller SW 개발 (Univ Team Project) in JAVA
+#### Weather-react : 날씨 웹 어플리케이션 (Personal Project) in HTML, CSS, JavaScript, React
+#### What-Should-I-wear-today : [모바일프로그래밍] 날씨 기반 옷 추천 안드로이드 어플리케이션 (Univ Team Project) in Kotiln
+#### Movie-react : 영화 정보 제공 & 검색 사이트 (Personal Project) in HTML, CSS, JavaScript, React, Chakra-ui
 <br><br>
 ---
 <div align="center">
