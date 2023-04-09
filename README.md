@@ -38,7 +38,9 @@
 <!-- - zoom-cloneCoding : 줌 클론코딩으로 webSocket, socketIO 배우기 with NomadCoders [Here](https://github.com/lunarmoon7/zoom_cloneCoding) -->
 <!-- - TodoList-Express.js : React, Express.js, MySQL 사용해서 TodoList 만들기 [Here](https://github.com/lunarmoon7/TodoList-Exprees.js) -->
 <!-- - Onmyway: HTML, CSS, JS 공부한 것을 바탕으로 만들고 싶은 것 만듬 in HTML, CSS, JS(클론코딩, 햄버거 버튼, 메뉴, 모달 등) [Here](https://github.com/lunarmoon7/onmyway) -->
-- 코테 대비 문제풀이 코드 정리 : 프로그래머스, 백준 [Here](https://github.com/lunarmoon7/Programmers_solved_code) / 리트코드(Leetcode) [Here](https://github.com/lunarmoon7/Leetcode_solved_code)
+- 코테 풀이 코드 정리
+  - 프로그래머스, 백준 [Here](https://github.com/lunarmoon7/Programmers_solved_code)
+  - 리트코드(Leetcode) [Here](https://github.com/lunarmoon7/Leetcode_solved_code)
 <br><br>
 ---
 <div align="center">
