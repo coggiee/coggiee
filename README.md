@@ -27,7 +27,7 @@
 - TMDB-Movie-react : 영화 정보 제공 & 검색 사이트 (Personal Project) in HTML, CSS, JavaScript, React, Chakra-ui [Here](https://github.com/lunarmoon7/TMDB-movie-react)
 - Kama : [K-lab 프로젝트]장애인이 일상생활에 불편을 겪을 때 도움을 신청하고, 도움을 받을 수 있게 하는 어플리케이션 in Swift [Here](https://github.com/lunarmoon7/Kama)
 
-# Study
+# Personal Experience & Study
 - 코딩 테스트 대비 스터디 in Python : 파이썬 코테 스터디 [Here](https://github.com/lunarmoon7/2023-python-coding-test)
 - CS-Study : CS 전공지식 공부 [Here](https://github.com/lunarmoon7/CS-Study)
 - react-study-with-udemy : 리액트 공부 with udemy 강의 [Here](https://github.com/lunarmoon7/react-study-with-udemy)
