@@ -33,6 +33,13 @@
 - react-study-with-udemy : 리액트 공부 with udemy 강의 [Here](https://github.com/lunarmoon7/react-study-with-udemy)
 - zoom-cloneCoding : 줌 클론코딩으로 webSocket, socketIO 배우기 with NomadCoders [Here](https://github.com/lunarmoon7/zoom_cloneCoding)
 - TodoList-Express.js : React, Express.js, MySQL 사용해서 TodoList 만들기 [Here](https://github.com/lunarmoon7/TodoList-Exprees.js)
+- HTML, CSS, JS 인프런 강의 공부#2 : HTML, CSS, JS 인프런 강의 [Here](https://github.com/lunarmoon7/HTML-CSS-JS-inflearn-2)
+- React 입문 강의 : NomadCoders React JS로 영화 웹 서비스 만들기 [Here](https://github.com/lunarmoon7/recommend-movie-service-web)
+- TodoList 만들기 : Express.js, MySQL 찍먹 공부 [Here](https://github.com/lunarmoon7/TodoList-Exprees.js)
+- HTML, CSS, JS 입문 강의 : NomadCoders VanillaJS로 크롬 앱 만들기 [Here](https://github.com/lunarmoon7/VanilaJS-NomadCoders)
+- HTML, CSS, JS 인프런 강의 공부#1 : HTML, CSS, JS 인프런 강의 [Here](https://github.com/lunarmoon7/HTML-CSS-JS-study-with-inflearn)
+- Onmyway: HTML, CSS, JS 공부한 것을 바탕으로 만들고 싶은 것 만듬 in HTML, CSS, JS(클론코딩, 햄버거 버튼, 메뉴, 모달 등) [Here](https://github.com/lunarmoon7/onmyway)
+- 코테 대비 문제풀이 코드 정리 : 프로그래머스, 백준 [Here](https://github.com/lunarmoon7/Programmers_solved_code) / 리트코드(Leetcode) [Here](https://github.com/lunarmoon7/Leetcode_solved_code)
 <br><br>
 ---
 <div align="center">
