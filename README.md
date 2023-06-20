@@ -30,6 +30,7 @@
 - TMDB-Movie-react : 영화 정보 제공 & 검색 사이트 (Personal Project) in HTML, CSS, JavaScript, React, Chakra-ui [Here](https://github.com/lunarmoon7/TMDB-movie-react)
 - Kama : [K-lab 프로젝트]장애인이 일상생활에 불편을 겪을 때 도움을 신청하고, 도움을 받을 수 있게 하는 어플리케이션 in Swift [Here](https://github.com/lunarmoon7/Kama)
 
+<!--
 # Personal Experience & Study
 - HTML, CSS, JS 입문 강의 : 'NomadCoders' VanillaJS로 크롬 앱 만들기 [Here](https://github.com/lunarmoon7/VanilaJS-NomadCoders)
 - HTML, CSS, JS 인프런 강의 공부#1 : HTML, CSS, JS 인프런 강의 [Here](https://github.com/lunarmoon7/HTML-CSS-JS-study-with-inflearn)
@@ -44,6 +45,8 @@
 - 코테 풀이 코드 정리
   - 프로그래머스, 백준 [Here](https://github.com/lunarmoon7/Programmers_solved_code)
   - 리트코드(Leetcode) [Here](https://github.com/lunarmoon7/Leetcode_solved_code)
+ 
+
 <br><br>
 ---
 <div>
