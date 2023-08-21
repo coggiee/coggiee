@@ -19,22 +19,14 @@
   <img src="https://img.shields.io/badge/Chakra UI-319795?style=for-the-badge&logo=Chakra UI&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-  
+
+<!--
 ### 배울 예정이에요.
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Express-EA4335?style=for-the-badge&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-EA4335?style=for-the-badge&logo=Express&logoColor=white"/> -->
 
-<br><br>
 </div>
-
-# Project
-<!-- - 해경(오션랩) - 불법 외국어선 단속강화 - 생체신호 센싱 : 학부 연구생 참여 프로젝트 [Here]() -->
-- OOPT_DVM : [객체지향개발방법론] 분산 자판기 시스템의 자판기 controller SW 개발 (Univ Team Project) in JAVA [Here](https://github.com/lunarmoon7/OOPT_DVM)
-- Weather-react-project : 날씨 웹 어플리케이션 (Personal Project) in HTML, CSS, JavaScript, React [Here](https://github.com/lunarmoon7/weather-react-project)
-- What-Should-I-wear-today : [모바일프로그래밍] 날씨 기반 옷 추천 안드로이드 어플리케이션 (Univ Team Project) in Kotiln [Here](https://github.com/lunarmoon7/What-Should-I-wear-today)
-- TMDB-Movie-react : 영화 정보 제공 & 검색 사이트 (Personal Project) in HTML, CSS, JavaScript, React, Chakra-ui [Here](https://github.com/lunarmoon7/TMDB-movie-react)
-- Kama : [K-lab 프로젝트]장애인이 일상생활에 불편을 겪을 때 도움을 신청하고, 도움을 받을 수 있게 하는 어플리케이션 in Swift [Here](https://github.com/lunarmoon7/Kama)
-
+  
 <!--
 # Personal Experience & Study
 - HTML, CSS, JS 입문 강의 : 'NomadCoders' VanillaJS로 크롬 앱 만들기 [Here](https://github.com/lunarmoon7/VanilaJS-NomadCoders)
@@ -47,9 +39,11 @@
 <!-- - zoom-cloneCoding : 줌 클론코딩으로 webSocket, socketIO 배우기 with NomadCoders [Here](https://github.com/lunarmoon7/zoom_cloneCoding) -->
 <!-- - TodoList-Express.js : React, Express.js, MySQL 사용해서 TodoList 만들기 [Here](https://github.com/lunarmoon7/TodoList-Exprees.js) -->
 <!-- - Onmyway: HTML, CSS, JS 공부한 것을 바탕으로 만들고 싶은 것 만듬 in HTML, CSS, JS(클론코딩, 햄버거 버튼, 메뉴, 모달 등) [Here](https://github.com/lunarmoon7/onmyway) -->
+
+<!--
 - 코테 풀이 코드 정리
   - 프로그래머스, 백준 [Here](https://github.com/lunarmoon7/Programmers_solved_code)
-  - 리트코드(Leetcode) [Here](https://github.com/lunarmoon7/Leetcode_solved_code)
+  - 리트코드(Leetcode) [Here](https://github.com/lunarmoon7/Leetcode_solved_code) -->
  
 
 <br><br>
