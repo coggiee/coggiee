@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Slowly&nbsp;But&nbsp;Steadily&fontSize=90&theme=ayu-mirage" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Slowly&nbsp;But&nbsp;Steadily&fontSize=90&theme=ayu-mirage" />
   
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flunarmoon7&count_bg=%23728FCD&title_bg=%231B1B1B&icon=bilibili.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
@@ -8,14 +8,14 @@
 <!-- <img src="https://img.shields.io/badge/49crehbgr@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
 <a href="https://www.instagram.com/geoulbaedalda/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://lunarmoon-hs-page.notion.site/ab2377c822af41c1a298b94542454ad3" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
--->
 
  <a href="https://velog.io/@49crehbgr" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-  
-### 기술 스택
+   -->
+   
+### be
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/><br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-### 배우는 중입니다.
+### ing
   <img src="https://img.shields.io/badge/Chakra UI-319795?style=for-the-badge&logo=Chakra UI&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
