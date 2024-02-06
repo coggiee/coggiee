@@ -1,4 +1,4 @@
-### 프론트엔드 개발자 문휘식입니다. 🫡
+### 프론트엔드 개발자 문휘식입니다. 👋🏻
 <!--
 #### Language
 html, css, js, ts
@@ -6,5 +6,5 @@ html, css, js, ts
 react, nextjs
 #### library
 tailwindcss
--->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)-->
