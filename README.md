@@ -1,4 +1,4 @@
-### 프론트엔드 개발자 문휘식입니다. 👋🏻
+### FrontEnd Engineer, 문휘식 👋🏻
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev) </br>
 [![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs,tailwindcss)](https://skillicons.dev) </br>
 [![My Skills](https://skillicons.dev/icons?i=pnpm,vercel,yarn)](https://skillicons.dev)
