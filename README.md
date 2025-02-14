@@ -1,5 +1,10 @@
 <div align='center'>
-  <strong>문휘식</strong> ⋅ <span>Web Frontend Engineer</span>
+  <div>
+    <strong>문휘식</strong> ⋅ <span>Web Frontend Engineer</span>
+  </div>
+  <br/>
+  <a href="https://www.linkedin.com/in/moonhwisik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://coggiee.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </div>
 
 # 
