@@ -1,6 +1,6 @@
 <div align='center'>
   <div>
-    <strong>문휘식</strong> ⋅ <span>Web Frontend Engineer</span>
+    <strong>문휘식</strong> ⋅ <span>Software Engineer, Front-end</span>
   </div>
   <br/>
   <a href="https://www.linkedin.com/in/moonhwisik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
